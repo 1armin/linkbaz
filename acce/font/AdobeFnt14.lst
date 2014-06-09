@@ -1,0 +1,43 @@
+%!Adobe-FontList 1.14
+%Locale:0x429
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\armin4838\Desktop\1armin\Font\OpenSans-Regular.eot
+FileModTime:1381399633
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\armin4838\Desktop\1armin\Font\OpenSans-Regular.svg
+FileModTime:1381401493
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans
+FamilyName:Open Sans
+StyleName:Regular
+FullName:Open Sans Regular
+MenuName:Open Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\armin4838\Desktop\1armin\Font\OpenSans-Regular.ttf
+DataFormat:sfntData
+FileLength:42248
+FileModTime:1381405691
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\armin4838\Desktop\1armin\Font\OpenSans-Regular.woff
+FileModTime:1381400066
+%EndFont
+

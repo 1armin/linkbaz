@@ -1,0 +1,5 @@
+http://localhost/linkbaz/api/?controller=link&action=create&title=test%20title&description=test%20description&url=http://linkbaz.net&username=armin&password=5240294
+
+
+
+http://www.google.com/url?sa=D&q=http://www.gen-x-design.com/archives/create-a-rest-api-with-php/&usg=AFQjCNEFDdSyFwBA_jLkY6_l28vIDAPhGw
